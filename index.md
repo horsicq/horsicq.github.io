@@ -1,7 +1,7 @@
 ## NTInfo
-[Blog](http://n10info.blogspot.com/)
-[GitHub](https://github.com/horsicq/)
-[E-Mail](mailto:horsicq@gmail.com?subject=NTInfo)
+- [Blog](http://n10info.blogspot.com/)
+- [GitHub](https://github.com/horsicq/)
+- [E-Mail](mailto:horsicq@gmail.com?subject=NTInfo)
 
 ## Detect It Easy(DiE)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/DIE-engine.svg)](https://github.com/horsicq/DIE-engine/releases)
