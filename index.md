@@ -1,11 +1,11 @@
 ## NTInfo
-[Blog](http://n10info.blogspot.com/)
-[GitHub](https://github.com/horsicq/)
-[EMail](mailto:horsicq@gmail.com?subject=NTInfo)
+- [Blog](http://n10info.blogspot.com/)
+- [GitHub](https://github.com/horsicq/)
+- [Email](mailto:horsicq@gmail.com?subject=NTInfo)
 
 ## Donate
-Paypal: **ntinfo.re@gmail.com**
-Bitcoin: **3HKrYPNDC3yzhrNZ3qzYVK3FHawAsny3DV?label=NTInfo**
+- Paypal: **ntinfo.re@gmail.com**
+- Bitcoin: **3HKrYPNDC3yzhrNZ3qzYVK3FHawAsny3DV**
 
 ## Detect It Easy(DiE)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/DIE-engine.svg)](https://github.com/horsicq/DIE-engine/releases)
