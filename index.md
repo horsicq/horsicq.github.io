@@ -1,6 +1,11 @@
-## [Blog](http://n10info.blogspot.com/)
-## [GitHub](https://github.com/horsicq/)
-## [E-Mail](mailto:horsicq@gmail.com?subject=NTInfo)
+## NTInfo
+[Blog](http://n10info.blogspot.com/)
+[GitHub](https://github.com/horsicq/)
+[EMail](mailto:horsicq@gmail.com?subject=NTInfo)
+
+## Donate
+Paypal: **ntinfo.re@gmail.com**
+Bitcoin: **3HKrYPNDC3yzhrNZ3qzYVK3FHawAsny3DV?label=NTInfo**
 
 ## Detect It Easy(DiE)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/DIE-engine.svg)](https://github.com/horsicq/DIE-engine/releases)
@@ -41,3 +46,14 @@
 **XNTSV** is a program for detailed viewing of system structures
 
 [More info](https://github.com/horsicq/xntsv)
+
+## PDBRipper
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/PDBRipper.svg)](https://github.com/horsicq/PDBRipper/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/PDBRipper/total.svg)](https://github.com/horsicq/PDBRipper/releases)
+
+![alt text](https://github.com/horsicq/PDBRipper/raw/master/docs/screenshot_gui.jpg "Screenshot")
+![alt text](https://github.com/horsicq/PDBRipper/raw/master/docs/screenshot_console.jpg "Screenshot")
+
+**PDBRipper** is an utility for extract an information from PDB-files.
+
+[More info](https://github.com/horsicq/PDBRipper)
