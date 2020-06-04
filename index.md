@@ -32,3 +32,13 @@
 **Nauz File Detector** is a portable linker/compiler/packer identifier utility.
 
 [More info](https://github.com/horsicq/Nauz-File-Detector)
+
+## Nauz File Detector(NFD)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/xntsv.svg)](https://github.com/horsicq/xntsv/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/xntsv/total.svg)](https://github.com/horsicq/xntsv/releases)
+
+![alt text](https://github.com/horsicq/xntsv/raw/master/screenshot.jpg "Screenshot")
+
+**XNTSV** is a program for detailed viewing of system structures
+
+[More info](https://github.com/horsicq/xntsv)
