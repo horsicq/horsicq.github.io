@@ -1,7 +1,6 @@
-## NTInfo
-- [Blog](http://n10info.blogspot.com/)
-- [GitHub](https://github.com/horsicq/)
-- [E-Mail](mailto:horsicq@gmail.com?subject=NTInfo)
+## [Blog](http://n10info.blogspot.com/)
+## [GitHub](https://github.com/horsicq/)
+## [E-Mail](mailto:horsicq@gmail.com?subject=NTInfo)
 
 ## Detect It Easy(DiE)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/DIE-engine.svg)](https://github.com/horsicq/DIE-engine/releases)
@@ -33,7 +32,7 @@
 
 [More info](https://github.com/horsicq/Nauz-File-Detector)
 
-## Nauz File Detector(NFD)
+## XNTSV
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/xntsv.svg)](https://github.com/horsicq/xntsv/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/xntsv/total.svg)](https://github.com/horsicq/xntsv/releases)
 
