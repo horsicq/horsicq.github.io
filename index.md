@@ -4,8 +4,9 @@
 - [Email](mailto:horsicq@gmail.com?subject=NTInfo)
 
 ## Donate
-- Paypal: **ntinfo.re@gmail.com**
+- Paypal: **ntinfo.re@gmail.com** 
 - Bitcoin: **3HKrYPNDC3yzhrNZ3qzYVK3FHawAsny3DV**
+- [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NF3FBD3KHMXDN)
 
 ## Detect It Easy(DiE)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/DIE-engine.svg)](https://github.com/horsicq/DIE-engine/releases)
