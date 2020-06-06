@@ -57,3 +57,13 @@
 **PDBRipper** is an utility for extract an information from PDB-files.
 
 [More info](https://github.com/horsicq/PDBRipper)
+
+## XELFViewer
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XELFViewer.svg)](https://github.com/horsicq/XELFViewer/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XELFViewer/total.svg)](https://github.com/horsicq/XELFViewer/releases)
+
+![alt text](https://github.com/horsicq/XELFViewer/raw/master/docs/1.png "Screenshot")
+
+**XELFViewer** is a file viewer/editor for Windows, Linux and MacOS.
+
+[More info](https://github.com/horsicq/XELFViewer)
