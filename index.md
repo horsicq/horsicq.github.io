@@ -65,6 +65,16 @@
 
 ![alt text](https://github.com/horsicq/XELFViewer/raw/master/docs/1.png "Screenshot")
 
-**XELFViewer** is a file viewer/editor for Windows, Linux and MacOS.
+**XELFViewer** is a ELF file viewer/editor for Windows, Linux and MacOS.
 
 [More info](https://github.com/horsicq/XELFViewer)
+
+## XPEViewer
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XPEViewer.svg)](https://github.com/horsicq/XPEViewer/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XPEViewer/total.svg)](https://github.com/horsicq/XPEViewer/releases)
+
+![alt text](https://github.com/horsicq/XPEViewer/raw/master/docs/1.png "Screenshot")
+
+**XPEViewer** is a PE file viewer/editor for Windows, Linux and MacOS.
+
+[More info](https://github.com/horsicq/XPEViewer)
