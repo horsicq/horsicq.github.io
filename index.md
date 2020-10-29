@@ -78,3 +78,14 @@
 **XPEViewer** is a PE file viewer/editor for Windows, Linux and MacOS.
 
 [More info](https://github.com/horsicq/XPEViewer)
+
+## x64dbg Plugin Manager
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/x64dbg-Plugin-Manager.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/x64dbg-Plugin-Manager/total.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
+
+![alt text](https://github.com/horsicq/x64dbg-Plugin-Manager/raw/master/docs/screenshot_gui.jpg "Screenshot")
+![alt text](https://github.com/horsicq/x64dbg-Plugin-Manager/raw/master/docs/screenshot_console.jpg "Screenshot")
+
+**x64dbg Plugin Manager**
+
+[More info](https://github.com/horsicq/x64dbg-Plugin-Manager)
