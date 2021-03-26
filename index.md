@@ -1,5 +1,5 @@
 ## NTInfo
-- [Blog](http://n10info.blogspot.com/)
+- [Blog](https://horsicq.github.io/blog/)
 - [GitHub](https://github.com/horsicq/)
 - [Email](mailto:horsicq@gmail.com?subject=NTInfo)
 
@@ -17,6 +17,16 @@
 **Detect It Easy**, or abbreviated "DIE" is a program for determining types of files.
 
 [More info](https://github.com/horsicq/Detect-It-Easy)
+
+## XAPKDetector
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XAPKDetector.svg)](https://github.com/horsicq/XAPKDetector/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XAPKDetector/total.svg)](https://github.com/horsicq/XAPKDetector/releases)
+
+![alt text](https://github.com/horsicq/XAPKDetector/raw/master/docs/1.png "Screenshot")
+
+**XAPKDetector** is Android/APK/DEX detector for Windows, Linux and MacOS.
+
+[More info](https://github.com/horsicq/XAPKDetector)
 
 ## XOpcodeCalc
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XOpcodeCalc.svg)](https://github.com/horsicq/XOpcodeCalc/releases)
