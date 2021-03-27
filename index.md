@@ -28,13 +28,26 @@
 
 [More info](https://github.com/horsicq/XAPKDetector)
 
+## XVolkolak
+
+![alt text](https://github.com/horsicq/horsicq.github.io/raw/master/images/xvolkolak.jpg "Screenshot")
+
+**XVolkolak** is an unpacker emulator.
+
+[More info](http://n10info.blogspot.com/2018/07/xvolkolak-021.html)
+
+[Download XVolkolak ver. 0.22 (Windows 7-10)](https://www.dropbox.com/s/nziop8xznuu09ra/xvlk_win32_public_0.22.zip?dl=1)
+[Download XVolkolak ver. 0.22 (Windows XP)](https://www.dropbox.com/s/vbac57we8p18qol/xvlk_winxp_public_0.22.zip?dl=1)
+[Download XVolkolak ver. 0.22 (Linux Ubuntu 18.04 x64)](https://www.dropbox.com/s/7sk61nc798kcg32/xvlk_lin64_public_0.22.tar.gz?dl=1)
+[Download XVolkolak ver. 0.22 (Mac OS X, DMG)](https://www.dropbox.com/s/2cfhtzdwfffr3m7/xvlk_mac_public_0.22.dmg?dl=1)
+
 ## XOpcodeCalc
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XOpcodeCalc.svg)](https://github.com/horsicq/XOpcodeCalc/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XOpcodeCalc/total.svg)](https://github.com/horsicq/XOpcodeCalc/releases)
 
 ![alt text](https://github.com/horsicq/XOpcodeCalc/raw/master/screenshot_gui.jpg "Screenshot")
 
-**XOpcodeCalc** is an opcode calculator
+**XOpcodeCalc** is an opcode calculator.
 
 [More info](https://github.com/horsicq/XOpcodeCalc)
 
@@ -54,7 +67,7 @@
 
 ![alt text](https://github.com/horsicq/xntsv/raw/master/screenshot.jpg "Screenshot")
 
-**XNTSV** is a program for detailed viewing of system structures
+**XNTSV** is a program for detailed viewing of system structures.
 
 [More info](https://github.com/horsicq/xntsv)
 
