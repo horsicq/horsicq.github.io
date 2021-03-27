@@ -42,13 +42,10 @@
 
 [More info](http://n10info.blogspot.com/2018/07/xvolkolak-021.html)
 
-[Download XVolkolak ver. 0.22 (Windows 7-10)](https://www.dropbox.com/s/nziop8xznuu09ra/xvlk_win32_public_0.22.zip?dl=1)
-
-[Download XVolkolak ver. 0.22 (Windows XP)](https://www.dropbox.com/s/vbac57we8p18qol/xvlk_winxp_public_0.22.zip?dl=1)
-
-[Download XVolkolak ver. 0.22 (Linux Ubuntu 18.04 x64)](https://www.dropbox.com/s/7sk61nc798kcg32/xvlk_lin64_public_0.22.tar.gz?dl=1)
-
-[Download XVolkolak ver. 0.22 (Mac OS X, DMG)](https://www.dropbox.com/s/2cfhtzdwfffr3m7/xvlk_mac_public_0.22.dmg?dl=1)
+- [Download XVolkolak ver. 0.22 (Windows 7-10)](https://www.dropbox.com/s/nziop8xznuu09ra/xvlk_win32_public_0.22.zip?dl=1)
+- [Download XVolkolak ver. 0.22 (Windows XP)](https://www.dropbox.com/s/vbac57we8p18qol/xvlk_winxp_public_0.22.zip?dl=1)
+- [Download XVolkolak ver. 0.22 (Linux Ubuntu 18.04 x64)](https://www.dropbox.com/s/7sk61nc798kcg32/xvlk_lin64_public_0.22.tar.gz?dl=1)
+- [Download XVolkolak ver. 0.22 (Mac OS X, DMG)](https://www.dropbox.com/s/2cfhtzdwfffr3m7/xvlk_mac_public_0.22.dmg?dl=1)
 
 ## XOpcodeCalc
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/XOpcodeCalc.svg)](https://github.com/horsicq/XOpcodeCalc)
