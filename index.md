@@ -9,6 +9,7 @@
 - [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NF3FBD3KHMXDN)
 
 ## Detect It Easy(DiE)
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/Detect-It-Easy.svg)](https://github.com/horsicq/Detect-It-Easy)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/DIE-engine.svg)](https://github.com/horsicq/DIE-engine/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/DIE-engine/total.svg)](https://github.com/horsicq/DIE-engine/releases)
 
@@ -21,6 +22,7 @@
 [Download](https://github.com/horsicq/DIE-engine/releases)
 
 ## XAPKDetector
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/XAPKDetector.svg)](https://github.com/horsicq/XAPKDetector)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XAPKDetector.svg)](https://github.com/horsicq/XAPKDetector/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XAPKDetector/total.svg)](https://github.com/horsicq/XAPKDetector/releases)
 
@@ -49,6 +51,7 @@
 [Download XVolkolak ver. 0.22 (Mac OS X, DMG)](https://www.dropbox.com/s/2cfhtzdwfffr3m7/xvlk_mac_public_0.22.dmg?dl=1)
 
 ## XOpcodeCalc
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/XOpcodeCalc.svg)](https://github.com/horsicq/XOpcodeCalc)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XOpcodeCalc.svg)](https://github.com/horsicq/XOpcodeCalc/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XOpcodeCalc/total.svg)](https://github.com/horsicq/XOpcodeCalc/releases)
 
@@ -61,6 +64,7 @@
 [Download](https://github.com/horsicq/XOpcodeCalc/releases)
 
 ## Nauz File Detector(NFD)
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/Nauz-File-Detector.svg)](https://github.com/horsicq/Nauz-File-Detector)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/Nauz-File-Detector.svg)](https://github.com/horsicq/Nauz-File-Detector/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/Nauz-File-Detector/total.svg)](https://github.com/horsicq/Nauz-File-Detector/releases)
 
@@ -73,6 +77,7 @@
 [Download](https://github.com/horsicq/Nauz-File-Detector/releases)
 
 ## XNTSV
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/xntsv.svg)](https://github.com/horsicq/xntsv)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/xntsv.svg)](https://github.com/horsicq/xntsv/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/xntsv/total.svg)](https://github.com/horsicq/xntsv/releases)
 
@@ -85,6 +90,7 @@
 [Download](https://github.com/horsicq/xntsv/releases)
 
 ## PDBRipper
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/PDBRipper.svg)](https://github.com/horsicq/PDBRipper)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/PDBRipper.svg)](https://github.com/horsicq/PDBRipper/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/PDBRipper/total.svg)](https://github.com/horsicq/PDBRipper/releases)
 
@@ -98,6 +104,7 @@
 [Download](https://github.com/horsicq/PDBRipper/releases)
 
 ## XELFViewer
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/XELFViewer.svg)](https://github.com/horsicq/XELFViewer)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XELFViewer.svg)](https://github.com/horsicq/XELFViewer/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XELFViewer/total.svg)](https://github.com/horsicq/XELFViewer/releases)
 
@@ -110,6 +117,7 @@
 [Download](https://github.com/horsicq/XELFViewer/releases)
 
 ## XPEViewer
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/XPEViewer.svg)](https://github.com/horsicq/XPEViewer)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XPEViewer.svg)](https://github.com/horsicq/XPEViewer/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XPEViewer/total.svg)](https://github.com/horsicq/XPEViewer/releases)
 
@@ -122,6 +130,7 @@
 [Download](https://github.com/horsicq/XPEViewer/releases)
 
 ## x64dbg Plugin Manager
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/x64dbg-Plugin-Manager.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/x64dbg-Plugin-Manager.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/x64dbg-Plugin-Manager/total.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
 
