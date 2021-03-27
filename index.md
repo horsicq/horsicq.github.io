@@ -18,6 +18,8 @@
 
 [More info](https://github.com/horsicq/Detect-It-Easy)
 
+[Download](https://github.com/horsicq/DIE-engine/releases)
+
 ## XAPKDetector
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XAPKDetector.svg)](https://github.com/horsicq/XAPKDetector/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XAPKDetector/total.svg)](https://github.com/horsicq/XAPKDetector/releases)
@@ -28,6 +30,8 @@
 
 [More info](https://github.com/horsicq/XAPKDetector)
 
+[Download](https://github.com/horsicq/XAPKDetector/releases)
+
 ## XVolkolak
 
 ![alt text](https://github.com/horsicq/horsicq.github.io/raw/master/images/xvolkolak.jpg "Screenshot")
@@ -37,8 +41,11 @@
 [More info](http://n10info.blogspot.com/2018/07/xvolkolak-021.html)
 
 [Download XVolkolak ver. 0.22 (Windows 7-10)](https://www.dropbox.com/s/nziop8xznuu09ra/xvlk_win32_public_0.22.zip?dl=1)
+
 [Download XVolkolak ver. 0.22 (Windows XP)](https://www.dropbox.com/s/vbac57we8p18qol/xvlk_winxp_public_0.22.zip?dl=1)
+
 [Download XVolkolak ver. 0.22 (Linux Ubuntu 18.04 x64)](https://www.dropbox.com/s/7sk61nc798kcg32/xvlk_lin64_public_0.22.tar.gz?dl=1)
+
 [Download XVolkolak ver. 0.22 (Mac OS X, DMG)](https://www.dropbox.com/s/2cfhtzdwfffr3m7/xvlk_mac_public_0.22.dmg?dl=1)
 
 ## XOpcodeCalc
@@ -51,6 +58,8 @@
 
 [More info](https://github.com/horsicq/XOpcodeCalc)
 
+[Download](https://github.com/horsicq/XOpcodeCalc/releases)
+
 ## Nauz File Detector(NFD)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/Nauz-File-Detector.svg)](https://github.com/horsicq/Nauz-File-Detector/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/Nauz-File-Detector/total.svg)](https://github.com/horsicq/Nauz-File-Detector/releases)
@@ -61,6 +70,8 @@
 
 [More info](https://github.com/horsicq/Nauz-File-Detector)
 
+[Download](https://github.com/horsicq/Nauz-File-Detector/releases)
+
 ## XNTSV
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/xntsv.svg)](https://github.com/horsicq/xntsv/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/xntsv/total.svg)](https://github.com/horsicq/xntsv/releases)
@@ -70,6 +81,8 @@
 **XNTSV** is a program for detailed viewing of system structures.
 
 [More info](https://github.com/horsicq/xntsv)
+
+[Download](https://github.com/horsicq/xntsv/releases)
 
 ## PDBRipper
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/PDBRipper.svg)](https://github.com/horsicq/PDBRipper/releases)
@@ -82,6 +95,8 @@
 
 [More info](https://github.com/horsicq/PDBRipper)
 
+[Download](https://github.com/horsicq/PDBRipper/releases)
+
 ## XELFViewer
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XELFViewer.svg)](https://github.com/horsicq/XELFViewer/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XELFViewer/total.svg)](https://github.com/horsicq/XELFViewer/releases)
@@ -91,6 +106,8 @@
 **XELFViewer** is a ELF file viewer/editor for Windows, Linux and MacOS.
 
 [More info](https://github.com/horsicq/XELFViewer)
+
+[Download](https://github.com/horsicq/XELFViewer/releases)
 
 ## XPEViewer
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XPEViewer.svg)](https://github.com/horsicq/XPEViewer/releases)
@@ -102,6 +119,8 @@
 
 [More info](https://github.com/horsicq/XPEViewer)
 
+[Download](https://github.com/horsicq/XPEViewer/releases)
+
 ## x64dbg Plugin Manager
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/x64dbg-Plugin-Manager.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/x64dbg-Plugin-Manager/total.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
@@ -112,3 +131,5 @@
 **x64dbg Plugin Manager**
 
 [More info](https://github.com/horsicq/x64dbg-Plugin-Manager)
+
+[Download](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
