@@ -1,6 +1,7 @@
 ## NTInfo
 - [Blog](https://horsicq.github.io/blog/)
 - [GitHub](https://github.com/horsicq/)
+- [Twitter](https://twitter.com/horsicq)
 - [Email](mailto:horsicq@gmail.com?subject=NTInfo)
 
 ## Donate
@@ -80,6 +81,9 @@
 
 - [More info](https://github.com/horsicq/xntsv)
 - [Download](https://github.com/horsicq/xntsv/releases)
+
+- [Download XNTSV(32 bit) ver. 1.8 (OS Windows)](https://www.dropbox.com/s/dcykfxpotlb3a8j/xntsv32.rar?dl=1)
+- [Download XNTSV(64 bit) ver. 1.8 (OS Windows)](https://www.dropbox.com/s/s5r1tx6u5jcfmlj/xntsv64.rar?dl=1)
 
 ## PDBRipper
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/PDBRipper.svg)](https://github.com/horsicq/PDBRipper)
