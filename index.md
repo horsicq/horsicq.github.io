@@ -17,8 +17,8 @@
 
 **Detect It Easy**, or abbreviated "DIE" is a program for determining types of files.
 
--[More info](https://github.com/horsicq/Detect-It-Easy)
--[Download](https://github.com/horsicq/DIE-engine/releases)
+- [More info](https://github.com/horsicq/Detect-It-Easy)
+- [Download](https://github.com/horsicq/DIE-engine/releases)
 
 ## XAPKDetector
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/XAPKDetector.svg)](https://github.com/horsicq/XAPKDetector)
@@ -29,8 +29,8 @@
 
 **XAPKDetector** is Android/APK/DEX detector for Windows, Linux and MacOS.
 
--[More info](https://github.com/horsicq/XAPKDetector)
--[Download](https://github.com/horsicq/XAPKDetector/releases)
+- [More info](https://github.com/horsicq/XAPKDetector)
+- [Download](https://github.com/horsicq/XAPKDetector/releases)
 
 ## XVolkolak
 
@@ -54,8 +54,8 @@
 
 **XOpcodeCalc** is an opcode calculator.
 
--[More info](https://github.com/horsicq/XOpcodeCalc)
--[Download](https://github.com/horsicq/XOpcodeCalc/releases)
+- [More info](https://github.com/horsicq/XOpcodeCalc)
+- [Download](https://github.com/horsicq/XOpcodeCalc/releases)
 
 ## Nauz File Detector(NFD)
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/Nauz-File-Detector.svg)](https://github.com/horsicq/Nauz-File-Detector)
@@ -66,8 +66,8 @@
 
 **Nauz File Detector** is a portable linker/compiler/packer identifier utility.
 
--[More info](https://github.com/horsicq/Nauz-File-Detector)
--[Download](https://github.com/horsicq/Nauz-File-Detector/releases)
+- [More info](https://github.com/horsicq/Nauz-File-Detector)
+- [Download](https://github.com/horsicq/Nauz-File-Detector/releases)
 
 ## XNTSV
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/xntsv.svg)](https://github.com/horsicq/xntsv)
@@ -78,8 +78,8 @@
 
 **XNTSV** is a program for detailed viewing of system structures.
 
--[More info](https://github.com/horsicq/xntsv)
--[Download](https://github.com/horsicq/xntsv/releases)
+- [More info](https://github.com/horsicq/xntsv)
+- [Download](https://github.com/horsicq/xntsv/releases)
 
 ## PDBRipper
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/PDBRipper.svg)](https://github.com/horsicq/PDBRipper)
@@ -91,8 +91,8 @@
 
 **PDBRipper** is an utility for extract an information from PDB-files.
 
--[More info](https://github.com/horsicq/PDBRipper)
--[Download](https://github.com/horsicq/PDBRipper/releases)
+- [More info](https://github.com/horsicq/PDBRipper)
+- [Download](https://github.com/horsicq/PDBRipper/releases)
 
 ## XELFViewer
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/XELFViewer.svg)](https://github.com/horsicq/XELFViewer)
@@ -103,8 +103,8 @@
 
 **XELFViewer** is a ELF file viewer/editor for Windows, Linux and MacOS.
 
--[More info](https://github.com/horsicq/XELFViewer)
--[Download](https://github.com/horsicq/XELFViewer/releases)
+- [More info](https://github.com/horsicq/XELFViewer)
+- [Download](https://github.com/horsicq/XELFViewer/releases)
 
 ## XPEViewer
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/XPEViewer.svg)](https://github.com/horsicq/XPEViewer)
@@ -115,8 +115,8 @@
 
 **XPEViewer** is a PE file viewer/editor for Windows, Linux and MacOS.
 
--[More info](https://github.com/horsicq/XPEViewer)
--[Download](https://github.com/horsicq/XPEViewer/releases)
+- [More info](https://github.com/horsicq/XPEViewer)
+- [Download](https://github.com/horsicq/XPEViewer/releases)
 
 ## x64dbg Plugin Manager
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/x64dbg-Plugin-Manager.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager)
@@ -128,5 +128,5 @@
 
 **x64dbg Plugin Manager**
 
--[More info](https://github.com/horsicq/x64dbg-Plugin-Manager)
--[Download](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
+- [More info](https://github.com/horsicq/x64dbg-Plugin-Manager)
+- [Download](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
