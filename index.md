@@ -122,6 +122,18 @@
 - [More info](https://github.com/horsicq/XPEViewer)
 - [Download](https://github.com/horsicq/XPEViewer/releases)
 
+## XMachOViewer
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/XMachOViewer.svg)](https://github.com/horsicq/XMachOViewer)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XMachOViewer.svg)](https://github.com/horsicq/XMachOViewer/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XMachOViewer/total.svg)](https://github.com/horsicq/XMachOViewer/releases)
+
+![alt text](https://github.com/horsicq/XMachOViewer/raw/master/docs/1.png "Screenshot")
+
+**XMachOViewer** is a MachO file viewer/editor for Windows, Linux and MacOS.
+
+- [More info](https://github.com/horsicq/XMachOViewer)
+- [Download](https://github.com/horsicq/XMachOViewer/releases)
+
 ## x64dbg Plugin Manager
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/x64dbg-Plugin-Manager.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/x64dbg-Plugin-Manager.svg)](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
