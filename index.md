@@ -3,6 +3,7 @@
 - [GitHub](https://github.com/horsicq/)
 - [Twitter](https://twitter.com/horsicq)
 - [Email](mailto:horsicq@gmail.com?subject=NTInfo)
+- [Software Protection & Licensing](https://www.pelock.com/)
 
 ## Donate
 - Paypal: **ntinfo.re@gmail.com** 
