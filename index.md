@@ -52,9 +52,9 @@
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XOpcodeCalc.svg)](https://github.com/horsicq/XOpcodeCalc/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XOpcodeCalc/total.svg)](https://github.com/horsicq/XOpcodeCalc/releases)
 
-![alt text](https://github.com/horsicq/XOpcodeCalc/blob/master/mascots/XOpcodeCalc.png "Screenshot")
+![alt text](https://github.com/horsicq/XOpcodeCalc/raw/master/mascots/XOpcodeCalc.png "Screenshot")
 
-**XOpcodeCalc** is an opcode calculator.
+**XOpcodeCalc** is x86/x64 opcode calculator.
 
 - [More info](https://github.com/horsicq/XOpcodeCalc)
 - [Download](https://github.com/horsicq/XOpcodeCalc/releases)
