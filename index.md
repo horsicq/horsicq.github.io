@@ -52,7 +52,7 @@
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XOpcodeCalc.svg)](https://github.com/horsicq/XOpcodeCalc/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XOpcodeCalc/total.svg)](https://github.com/horsicq/XOpcodeCalc/releases)
 
-![alt text](https://github.com/horsicq/XOpcodeCalc/raw/master/screenshot_gui.jpg "Screenshot")
+![alt text](https://github.com/horsicq/XOpcodeCalc/blob/master/mascots/XOpcodeCalc.png "Screenshot")
 
 **XOpcodeCalc** is an opcode calculator.
 
