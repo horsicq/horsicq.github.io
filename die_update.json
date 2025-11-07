@@ -1,11 +1,11 @@
 {
   "updates": [
     {
-      "latestVersion": "3.09",
-      "releaseDate": "2023-12-26",
-      "downloadUrl": "https://github.com/horsicq/DIE-engine/releases/download/3.09/die_win32_portable_3.09_x86.zip",
-      "fileName": "die_win32_portable_3.09_x86.zip",
-      "releaseNotes": "Release notes for version 3.09..."
+      "latestVersion": "3.10",
+      "releaseDate": "2024-11-03",
+      "downloadUrl": "https://github.com/horsicq/DIE-engine/releases/download/3.10/die_win32_portable_3.10_x86.zip",
+      "fileName": "die_win32_portable_3.10_x86.zip",
+      "releaseNotes": "Release notes for version 3.10..."
     }
   ]
 }
