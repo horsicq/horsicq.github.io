@@ -1,7 +1,7 @@
 ## NTInfo
 - [Blog](https://horsicq.github.io/blog/)
 - [GitHub](https://github.com/horsicq/)
-- [Twitter](https://twitter.com/horsicq)
+- [X](https://x.com/horsicq)
 - [Email](mailto:horsicq@gmail.com?subject=NTInfo)
 - [PELock Software Protection & Reverse Engineering](https://www.pelock.com)
 
@@ -147,3 +147,4 @@
 
 - [More info](https://github.com/horsicq/x64dbg-Plugin-Manager)
 - [Download](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
+
