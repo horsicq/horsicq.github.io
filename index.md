@@ -3,6 +3,8 @@
 - [GitHub](https://github.com/horsicq/)
 - [X](https://x.com/horsicq)
 - [Email](mailto:horsicq@gmail.com?subject=NTInfo)
+- [Telegram](t.me/horsicq)
+- [Discord](https://discord.com/users/641741884095725569)
 - [PELock Software Protection & Reverse Engineering](https://www.pelock.com)
 
 ## Donate
