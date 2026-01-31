@@ -156,7 +156,6 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/HexViewer/total.svg)](https://github.com/horsicq/HexViewer/releases)
 <!--
 ![alt text](https://github.com/horsicq/HexViewer/raw/master/docs/screenshot_gui.jpg "Screenshot")
-![alt text](https://github.com/horsicq/HexViewer/raw/master/docs/screenshot_console.jpg "Screenshot")
 TODO: add screnshots later!
 -->
 
