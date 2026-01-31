@@ -148,3 +148,17 @@
 - [More info](https://github.com/horsicq/x64dbg-Plugin-Manager)
 - [Download](https://github.com/horsicq/x64dbg-Plugin-Manager/releases)
 
+## HexViewer
+[![GitHub stars](https://img.shields.io/github/stars/horsicq/HexViewer.svg)](https://github.com/horsicq/HexViewer)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/HexViewer.svg)](https://github.com/horsicq/HexViewer/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/HexViewer/total.svg)](https://github.com/horsicq/HexViewer/releases)
+<!--
+![alt text](https://github.com/horsicq/HexViewer/raw/master/docs/screenshot_gui.jpg "Screenshot")
+![alt text](https://github.com/horsicq/HexViewer/raw/master/docs/screenshot_console.jpg "Screenshot")
+TODO: add screnshots later!
+-->
+
+**HexViewer**
+
+- [More info](https://github.com/horsicq/HexViewer)
+- [Download](https://github.com/horsicq/HexViewer/releases)
