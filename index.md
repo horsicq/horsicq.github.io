@@ -1,5 +1,6 @@
 ## NTInfo
 - [Blog](https://horsicq.github.io/blog/)
+- [Old Blog](https://n10info.blogspot.com)
 - [GitHub](https://github.com/horsicq/)
 - [X](https://x.com/horsicq)
 - [Email](mailto:horsicq@gmail.com?subject=NTInfo)
