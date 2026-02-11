@@ -8,6 +8,7 @@
 - [Telegram](https://t.me/horsicq)
 - [Discord](https://discord.com/users/641741884095725569)
 - [PELock Software Protection & Reverse Engineering](https://www.pelock.com)
+- [Reference](reference.md)
 
 ## Donate
 - Paypal: **ntinfo.re@gmail.com** 
