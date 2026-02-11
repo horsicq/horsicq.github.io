@@ -3,6 +3,7 @@
 - [Old Blog](https://n10info.blogspot.com)
 - [GitHub](https://github.com/horsicq/)
 - [X](https://x.com/horsicq)
+- [YouTube](https://www.youtube.com/@funreverseengineering)
 - [Email](mailto:horsicq@gmail.com?subject=NTInfo)
 - [Telegram](https://t.me/horsicq)
 - [Discord](https://discord.com/users/641741884095725569)
