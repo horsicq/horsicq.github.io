@@ -13,3 +13,7 @@
 - [Detect It Easy, or abbreviated "DIE" is a program for determining types of files and more](https://www.wilderssecurity.com/threads/detect-it-easy-or-abbreviated-die-is-a-program-for-determining-types-of-files-and-more.442098/)
 - [Конфуз, сэр! Добываем код из ConfuserEx без готовых деобфускаторов (Russian)](https://xakep.ru/2026/02/04/confuser-ex/)
 - [Explore mystery files with Detect It Easy](https://betanews.com/article/explore-mystery-files-with-detect-it-easy/)
+- [https://www.dr-datenschutz.de/desinfect-2024-all-in-one-scanner-fuer-malware-co/](Desinfec't 2024: All-in-One-Scanner für Malware & Co.? (German))
+- [https://medium.com/@rhaslekar/malware-analysis-3f2531cdfe9e](Malware Tools - Static Analysis)
+- [https://www.heise.de/ratgeber/Malware-Analysetool-Schadpotenzial-von-Daten-mit-Qu1cksc0pe-ermitteln-10001929.html](Malware-Analysetool: Schadpotenzial von Daten mit Qu1cksc0pe ermitteln (German))
+- [https://vk.com/@greyteam-kak-opredelit-tip-faila-v-linux-s-pomoschu-detect-it-easy](Как определить тип файла в Linux с помощью Detect It Easy (Russian))
