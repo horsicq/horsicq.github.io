@@ -16,4 +16,4 @@
 - [Desinfec't 2024: All-in-One-Scanner für Malware & Co.? (German)](https://www.dr-datenschutz.de/desinfect-2024-all-in-one-scanner-fuer-malware-co/)
 - [Malware Tools - Static Analysis](https://medium.com/@rhaslekar/malware-analysis-3f2531cdfe9e)
 - [Malware-Analysetool: Schadpotenzial von Daten mit Qu1cksc0pe ermitteln (German)](https://www.heise.de/ratgeber/Malware-Analysetool-Schadpotenzial-von-Daten-mit-Qu1cksc0pe-ermitteln-10001929.html)
-- [https://vk.com/@greyteam-kak-opredelit-tip-faila-v-linux-s-pomoschu-detect-it-easy](Как определить тип файла в Linux с помощью Detect It Easy (Russian))
+- [Как определить тип файла в Linux с помощью Detect It Easy (Russian)](https://vk.com/@greyteam-kak-opredelit-tip-faila-v-linux-s-pomoschu-detect-it-easy)
