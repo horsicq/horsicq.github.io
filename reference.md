@@ -17,3 +17,4 @@
 - [Malware Tools - Static Analysis](https://medium.com/@rhaslekar/malware-analysis-3f2531cdfe9e)
 - [Malware-Analysetool: Schadpotenzial von Daten mit Qu1cksc0pe ermitteln (German)](https://www.heise.de/ratgeber/Malware-Analysetool-Schadpotenzial-von-Daten-mit-Qu1cksc0pe-ermitteln-10001929.html)
 - [Как определить тип файла в Linux с помощью Detect It Easy (Russian)](https://vk.com/@greyteam-kak-opredelit-tip-faila-v-linux-s-pomoschu-detect-it-easy)
+- [Detect It Easy: Tutorial – Tool analysiert Ihre Dateien (German)](https://www.computerbild.de/artikel/cb-Tipps-Software-Detect-It-Easy-Tutorial-Tool-analysiert-Ihre-Dateien-36841759.html)
