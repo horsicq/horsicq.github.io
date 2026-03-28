@@ -157,10 +157,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/horsicq/HexViewer.svg)](https://github.com/horsicq/HexViewer)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/HexViewer.svg)](https://github.com/horsicq/HexViewer/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/HexViewer/total.svg)](https://github.com/horsicq/HexViewer/releases)
-<!--
-![alt text](https://github.com/horsicq/HexViewer/raw/master/docs/screenshot_gui.jpg "Screenshot")
-TODO: add screnshots later!
--->
+![alt text](https://github.com/horsicq/HexViewer/raw/main/docs/screenshot_gui.png "Screenshot")
+
 
 **HexViewer**
 
