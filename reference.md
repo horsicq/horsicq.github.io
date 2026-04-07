@@ -1,6 +1,6 @@
 ## Reference
 
-**Detect It Easy**  
+**Detect It Easy**
 - [Malware analysis with Detect It Easy by digistam](https://medium.com/@digistam/malware-analysis-with-detect-it-easy-232b9833b18e)
 - [Reverse Engineering — A Classic Injection](https://nosfera0x2.medium.com/reverse-engineering-a-classic-injection-16773f027f3c)
 - [Using Detect It Easy to… detect it easy](https://www.hexacorn.com/blog/2023/04/21/using-detect-it-easy-to-detect-it-easy/)
@@ -20,3 +20,7 @@
 - [Detect It Easy: Tutorial – Tool analysiert Ihre Dateien (German)](https://www.computerbild.de/artikel/cb-Tipps-Software-Detect-It-Easy-Tutorial-Tool-analysiert-Ihre-Dateien-36841759.html)
 - [Criando assinaturas para o Detect It Easy (Portuguese)](https://www.mentebinaria.com.br/artigos/engenharia-reversa/criando-assinaturas-para-o-detect-it-easy-r115/)
 - [OSINT - Analyse Tools fürs Netzwerk](https://itrig.de/index.php?/archives/2439-OSINT-Analyse-Tools-fuers-Netzwerk.html)
+- [What Is Malware Analysis? Types, Methodologies & Tools for Security Analysts](https://www.cyberwarehub.com/blogs/what-is-malware-analysis-types-methodologies-and-tools-for-security-analysts)
+
+**XELFViewer**
+[XELFViewer : Éditeur et afficheur de fichiers ELF pour Windows, MacOS et Linux (French)](https://www.securiteinfo.com/administration-systeme-et-reseau/outils/xelfviewer.shtml)
