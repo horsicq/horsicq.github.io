@@ -24,6 +24,7 @@
 - [What Is Malware Analysis? Types, Methodologies & Tools for Security Analysts](https://www.cyberwarehub.com/blogs/what-is-malware-analysis-types-methodologies-and-tools-for-security-analysts)
 - [Practical malware analysis: solutions for Lab 1](https://andpalmier.com/posts/practical-malware-lab1/)
 - [Reverse Engineering — A Classic Injection](https://nosfera0x2.medium.com/reverse-engineering-a-classic-injection-16773f027f3c)
+- [Описание Detect It Easy (Russian)](https://kali.tools/?p=6788)
 
 **XELFViewer**
 - [XELFViewer : Éditeur et afficheur de fichiers ELF pour Windows, MacOS et Linux (French)](https://www.securiteinfo.com/administration-systeme-et-reseau/outils/xelfviewer.shtml)
