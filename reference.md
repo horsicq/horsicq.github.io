@@ -21,6 +21,7 @@
 - [Criando assinaturas para o Detect It Easy (Portuguese)](https://www.mentebinaria.com.br/artigos/engenharia-reversa/criando-assinaturas-para-o-detect-it-easy-r115/)
 - [OSINT - Analyse Tools fürs Netzwerk](https://itrig.de/index.php?/archives/2439-OSINT-Analyse-Tools-fuers-Netzwerk.html)
 - [What Is Malware Analysis? Types, Methodologies & Tools for Security Analysts](https://www.cyberwarehub.com/blogs/what-is-malware-analysis-types-methodologies-and-tools-for-security-analysts)
+- [Practical malware analysis: solutions for Lab 1](https://andpalmier.com/posts/practical-malware-lab1/)
 
 **XELFViewer**
 - [XELFViewer : Éditeur et afficheur de fichiers ELF pour Windows, MacOS et Linux (French)](https://www.securiteinfo.com/administration-systeme-et-reseau/outils/xelfviewer.shtml)
