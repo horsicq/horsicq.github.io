@@ -25,6 +25,7 @@
 - [Practical malware analysis: solutions for Lab 1](https://andpalmier.com/posts/practical-malware-lab1/)
 - [Reverse Engineering — A Classic Injection](https://nosfera0x2.medium.com/reverse-engineering-a-classic-injection-16773f027f3c)
 - [Описание Detect It Easy (Russian)](https://kali.tools/?p=6788)
+- [A Closer Look at the pkr_ce1a Packer](https://cyvia.io/blog/a-closer-look-at-the-pkr-ce1a-packer)
 
 **XELFViewer**
 - [XELFViewer : Éditeur et afficheur de fichiers ELF pour Windows, MacOS et Linux (French)](https://www.securiteinfo.com/administration-systeme-et-reseau/outils/xelfviewer.shtml)
